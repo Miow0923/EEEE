@@ -5,10 +5,12 @@ int main()
 {
     int x;
 
-    printf("fuck you \n");
+    printf("fuck you \n enter 3");
 
+    scanf("%d",&x);
+    printf("%d\n",x);
+
+    if(x= 3);
     printf("Hello world!\n");
-    scanf("%d",x);
-    printf("%d",&x);
     return 0;
 }
