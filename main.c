@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+
 int main()
 {
     int x;
@@ -12,8 +13,7 @@ int main()
 
 
     if(x == 3)
-    printf("Hello world!\n");
-
+    printf("Hello you are bitches!\n");
     else
         printf ("idiot");
 
