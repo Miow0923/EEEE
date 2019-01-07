@@ -10,7 +10,11 @@ int main()
     scanf("%d",&x);
     printf("%d\n",x);
 
-    if(x= 3);
+
+    if(x= 3)
     printf("Hello world!\n");
+    else if
+        printf ("idiot");
+
     return 0;
 }
